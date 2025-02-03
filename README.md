@@ -14,8 +14,8 @@ Some guidelines for creating issues:
 - If you think you found a bug, please provide a minimal reproducible example if possible.
 - Please search for existing issues before creating a new one to avoid duplicates.
 - Use upvote reactions to show interest in an issue. Do not post "+1" comments.
-- If you have urgent request, consider reaching out to us directly at [support@useblocks.com]
-  (mailto:support@useblocks.com)
+- If you have urgent request, consider reaching out to us directly to our
+  [support](mailto:support@useblocks.com?subject=[GitHub]%20ubCode%20Support%20Request).
 - Please understand that creating issues does not guarantee that they will be implemented in a
   specific timeframe or at all. We gather feedback and wishes from multiple sources and prioritize
   them internally.
