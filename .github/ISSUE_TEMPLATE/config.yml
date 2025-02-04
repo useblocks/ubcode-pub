@@ -1,5 +1,7 @@
 contact_links:
   - name: Get technical support
     url: https://ubcode.useblocks.com/_static/contact.html
-  - name: Request a license
+    about: Request a license
+  - name: Get a license
     url: https://ubcode.useblocks.com/_static/contact.html
+    about: Request a license
