@@ -1,0 +1,7 @@
+contact_links:
+  - name: Get technical support
+    url: mailto:support@useblocks.com?subject=ubCode%20Support
+    about: Request a license
+  - name: Get a license
+    url: mailto:support@useblocks.com?subject=ubCode%20License%20Request
+    about: Request a license
